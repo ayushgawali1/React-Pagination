@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss(),],
-  base: '/ecom-react-vite/', // Replace with your actual repo name
+  base: '/React-Pagination/', // Replace with your actual repo name
 })
